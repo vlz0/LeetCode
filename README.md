@@ -3,5 +3,5 @@ chismoso mijo
 |||
 | ------------ | ------------ |
 | EASY  | 87 |
-| MEDIUM  | 50 |
+| MEDIUM  | 51 |
 | HARD | 8 |
